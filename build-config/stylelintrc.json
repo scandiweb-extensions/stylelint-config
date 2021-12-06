@@ -38,6 +38,7 @@
                 "ignoreUnits": ["em", "%", "rem", "s", ""],
                 "ignoreProperties": ["/^transition/", "text-shadow", "color", "opacity", "line-height"]
             }
-        ]
+        ],
+        "selector-pseudo-element-colon-notation": "double"
     }
 }
