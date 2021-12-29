@@ -14,7 +14,7 @@
     "eslintConfig": {
         "extends": "@scandipwa"
     },
-    "devDependencies": {
+    "dependencies": {
         "fs-extra": "^10.0.0",
         "postcss": "^8.4.4",
         "postcss-scss": "^4.0.2",
